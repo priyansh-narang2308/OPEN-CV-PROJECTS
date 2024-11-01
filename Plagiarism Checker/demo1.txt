@@ -1,0 +1,2 @@
+I am making a python project for 
+Plagiarism Detection. 
